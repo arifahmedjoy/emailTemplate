@@ -1,0 +1,25 @@
+{
+  "name": "responsive_email_template",
+  "version": "0.0.1",
+  "description": "A Responsive Email Template for Newsletter Marketing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifahmedjoy/emailTemplate.git"
+  },
+  "keywords": [
+    "emailtemplate",
+    "template",
+    "responsive",
+    "email"
+  ],
+  "author": "Arif Ahmed Joy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arifahmedjoy/emailTemplate/issues"
+  },
+  "homepage": "https://github.com/arifahmedjoy/emailTemplate#readme"
+}
